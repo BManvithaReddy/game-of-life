@@ -503,7 +503,7 @@
             <url>http://192.168.52.169:8081/nexus/content/repositories/releases/</url>
        </repository>
         
-        <snapshotRepository>
+       <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshots</name>
             <url>http://192.168.52.169:8081/nexus/content/repositories/snapshots/</url>
